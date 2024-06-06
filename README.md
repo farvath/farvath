@@ -2,7 +2,6 @@
 <h3 align="center">Passionate about Building Intelligent Systems</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farvath&label=Profile%20views&color=0e75b6&style=flat" alt="farvath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farvath&theme=" alt="farvath" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI and Cloud Applications**
 - 💬 Ask me about **Computer vision , Machine learning, AI**
